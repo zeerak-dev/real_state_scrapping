@@ -21,7 +21,7 @@ from config.settings import setup_logging, Config
 from scrapers import ZameenScraper, GraanaScraper
 from data_cleaning import data_cleaner
 from database import db_ops, db_manager
-
+#okay
 # Setup logging
 logger = setup_logging()
 
