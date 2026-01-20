@@ -128,5 +128,5 @@ python main.py stats
 - Error handling and logging
 - Automated scheduling
 
-## Author
-Real Estate Analytics Team
+Zeerak  
+Real Estate Analytics Project
