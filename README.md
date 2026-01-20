@@ -127,6 +127,6 @@ python main.py stats
 - Data deduplication
 - Error handling and logging
 - Automated scheduling
-
+## Author
 Zeerak  
 Real Estate Analytics Project
